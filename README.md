@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahuyash2192-glitch/DSA/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/sahuyash2192-glitch/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -20,4 +21,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/sahuyash2192-glitch/DSA/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
