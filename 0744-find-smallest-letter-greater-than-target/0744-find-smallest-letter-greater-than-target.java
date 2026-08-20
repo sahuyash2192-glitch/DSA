@@ -11,6 +11,9 @@ class Solution {
 
         
      }
-     return letters[s%letters.length];
+     if(s!=letters.length)
+     return letters[s];
+     else 
+     return letters[0];
     }
 }
