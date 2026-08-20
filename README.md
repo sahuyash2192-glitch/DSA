@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/sahuyash2192-glitch/DSA/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/sahuyash2192-glitch/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0189-rotate-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sahuyash2192-glitch/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/sahuyash2192-glitch/DSA/tree/master/0162-find-peak-element) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sahuyash2192-glitch/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## String
 |  |
 | ------- |
