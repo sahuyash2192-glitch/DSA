@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0189-rotate-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahuyash2192-glitch/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
