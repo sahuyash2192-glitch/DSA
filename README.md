@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sahuyash2192-glitch/DSA/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sahuyash2192-glitch/DSA/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/sahuyash2192-glitch/DSA/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
@@ -66,4 +68,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/sahuyash2192-glitch/DSA/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/sahuyash2192-glitch/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
