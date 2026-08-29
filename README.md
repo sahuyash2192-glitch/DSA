@@ -16,12 +16,14 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sahuyash2192-glitch/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sahuyash2192-glitch/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahuyash2192-glitch/DSA/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sahuyash2192-glitch/DSA/tree/master/0389-find-the-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahuyash2192-glitch/DSA/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0189-rotate-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +46,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sahuyash2192-glitch/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sahuyash2192-glitch/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -81,6 +85,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/sahuyash2192-glitch/DSA/tree/master/0389-find-the-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
 |  |
 | ------- |
