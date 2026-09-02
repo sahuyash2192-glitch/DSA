@@ -18,6 +18,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sahuyash2192-glitch/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [1952-three-divisors](https://github.com/sahuyash2192-glitch/DSA/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahuyash2192-glitch/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
