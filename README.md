@@ -11,6 +11,7 @@
 | [0011-container-with-most-water](https://github.com/sahuyash2192-glitch/DSA/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/sahuyash2192-glitch/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/sahuyash2192-glitch/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahuyash2192-glitch/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0189-rotate-array) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahuyash2192-glitch/DSA/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/sahuyash2192-glitch/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahuyash2192-glitch/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0189-rotate-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -93,6 +95,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sahuyash2192-glitch/DSA/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/sahuyash2192-glitch/DSA/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
@@ -111,4 +114,12 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/sahuyash2192-glitch/DSA/tree/master/1952-three-divisors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sahuyash2192-glitch/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sahuyash2192-glitch/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
