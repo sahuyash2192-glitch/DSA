@@ -21,6 +21,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1390-four-divisors](https://github.com/sahuyash2192-glitch/DSA/tree/master/1390-four-divisors) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sahuyash2192-glitch/DSA/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
