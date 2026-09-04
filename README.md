@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahuyash2192-glitch/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sahuyash2192-glitch/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -51,6 +52,7 @@
 | [0075-sort-colors](https://github.com/sahuyash2192-glitch/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahuyash2192-glitch/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -62,6 +64,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahuyash2192-glitch/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahuyash2192-glitch/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sahuyash2192-glitch/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -101,6 +104,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/sahuyash2192-glitch/DSA/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -139,4 +143,12 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3903-smallest-stable-index-i) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
