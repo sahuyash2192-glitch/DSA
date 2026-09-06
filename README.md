@@ -34,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sahuyash2192-glitch/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/sahuyash2192-glitch/DSA/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/sahuyash2192-glitch/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sahuyash2192-glitch/DSA/tree/master/0389-find-the-difference) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sahuyash2192-glitch/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sahuyash2192-glitch/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sahuyash2192-glitch/DSA/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/sahuyash2192-glitch/DSA/tree/master/0771-jewels-and-stones) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sahuyash2192-glitch/DSA/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/sahuyash2192-glitch/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sahuyash2192-glitch/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
