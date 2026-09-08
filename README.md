@@ -44,6 +44,7 @@
 | [0645-set-mismatch](https://github.com/sahuyash2192-glitch/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/sahuyash2192-glitch/DSA/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3945-digit-frequency-score](https://github.com/sahuyash2192-glitch/DSA/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahuyash2192-glitch/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3945-digit-frequency-score](https://github.com/sahuyash2192-glitch/DSA/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
