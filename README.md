@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/sahuyash2192-glitch/DSA/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sahuyash2192-glitch/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -185,5 +186,6 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
