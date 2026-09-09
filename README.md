@@ -44,6 +44,7 @@
 | [0645-set-mismatch](https://github.com/sahuyash2192-glitch/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/sahuyash2192-glitch/DSA/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3945-digit-frequency-score](https://github.com/sahuyash2192-glitch/DSA/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -92,6 +93,7 @@
 | [0392-is-subsequence](https://github.com/sahuyash2192-glitch/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/sahuyash2192-glitch/DSA/tree/master/0771-jewels-and-stones) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Queue
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -182,4 +185,5 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0567-permutation-in-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
