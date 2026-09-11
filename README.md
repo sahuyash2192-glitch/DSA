@@ -97,6 +97,7 @@
 | [0392-is-subsequence](https://github.com/sahuyash2192-glitch/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/sahuyash2192-glitch/DSA/tree/master/0771-jewels-and-stones) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sahuyash2192-glitch/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Queue
 |  |
@@ -193,5 +194,6 @@
 | [0643-maximum-average-subarray-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahuyash2192-glitch/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sahuyash2192-glitch/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sahuyash2192-glitch/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
