@@ -55,6 +55,7 @@
 | [0189-rotate-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0268-missing-number) |
 | [1390-four-divisors](https://github.com/sahuyash2192-glitch/DSA/tree/master/1390-four-divisors) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/sahuyash2192-glitch/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/sahuyash2192-glitch/DSA/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahuyash2192-glitch/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
