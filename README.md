@@ -29,6 +29,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sahuyash2192-glitch/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1390-four-divisors](https://github.com/sahuyash2192-glitch/DSA/tree/master/1390-four-divisors) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sahuyash2192-glitch/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sahuyash2192-glitch/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -48,6 +49,7 @@
 | [0771-jewels-and-stones](https://github.com/sahuyash2192-glitch/DSA/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sahuyash2192-glitch/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3945-digit-frequency-score](https://github.com/sahuyash2192-glitch/DSA/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -109,6 +111,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sahuyash2192-glitch/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
