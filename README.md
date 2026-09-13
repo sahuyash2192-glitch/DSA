@@ -16,6 +16,7 @@
 | [0162-find-peak-element](https://github.com/sahuyash2192-glitch/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahuyash2192-glitch/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/sahuyash2192-glitch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahuyash2192-glitch/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -83,6 +84,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/sahuyash2192-glitch/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahuyash2192-glitch/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sahuyash2192-glitch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahuyash2192-glitch/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -176,6 +178,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sahuyash2192-glitch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahuyash2192-glitch/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sahuyash2192-glitch/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -194,6 +197,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sahuyash2192-glitch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahuyash2192-glitch/DSA/tree/master/1004-max-consecutive-ones-iii) |
