@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahuyash2192-glitch/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/sahuyash2192-glitch/DSA/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/sahuyash2192-glitch/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0268-missing-number) |
@@ -101,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/sahuyash2192-glitch/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sahuyash2192-glitch/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -206,6 +208,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahuyash2192-glitch/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/0643-maximum-average-subarray-i) |
