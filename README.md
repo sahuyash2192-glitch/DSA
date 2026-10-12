@@ -66,6 +66,7 @@
 | [0189-rotate-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1390-four-divisors](https://github.com/sahuyash2192-glitch/DSA/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sahuyash2192-glitch/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/sahuyash2192-glitch/DSA/tree/master/1952-three-divisors) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0392-is-subsequence](https://github.com/sahuyash2192-glitch/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sahuyash2192-glitch/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -241,4 +243,5 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
