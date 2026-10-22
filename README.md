@@ -72,6 +72,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sahuyash2192-glitch/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/sahuyash2192-glitch/DSA/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sahuyash2192-glitch/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/sahuyash2192-glitch/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/sahuyash2192-glitch/DSA/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahuyash2192-glitch/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sahuyash2192-glitch/DSA/tree/master/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/sahuyash2192-glitch/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
