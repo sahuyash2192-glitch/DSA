@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sahuyash2192-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/sahuyash2192-glitch/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0268-missing-number) |
@@ -221,6 +222,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sahuyash2192-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/sahuyash2192-glitch/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -251,6 +253,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sahuyash2192-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
