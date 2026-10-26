@@ -119,6 +119,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/sahuyash2192-glitch/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sahuyash2192-glitch/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sahuyash2192-glitch/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -223,6 +224,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sahuyash2192-glitch/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/sahuyash2192-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/sahuyash2192-glitch/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0509-fibonacci-number) |
@@ -258,4 +260,12 @@
 | [0070-climbing-stairs](https://github.com/sahuyash2192-glitch/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/1137-n-th-tribonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sahuyash2192-glitch/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sahuyash2192-glitch/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
