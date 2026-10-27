@@ -69,6 +69,7 @@
 | [0258-add-digits](https://github.com/sahuyash2192-glitch/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sahuyash2192-glitch/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sahuyash2192-glitch/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sahuyash2192-glitch/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -165,6 +166,7 @@
 | [0136-single-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/sahuyash2192-glitch/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sahuyash2192-glitch/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sahuyash2192-glitch/DSA/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sahuyash2192-glitch/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sahuyash2192-glitch/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sahuyash2192-glitch/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
