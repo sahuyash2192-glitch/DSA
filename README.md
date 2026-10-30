@@ -271,4 +271,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahuyash2192-glitch/DSA/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/sahuyash2192-glitch/DSA/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/sahuyash2192-glitch/DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
