@@ -93,6 +93,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sahuyash2192-glitch/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/sahuyash2192-glitch/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/sahuyash2192-glitch/DSA/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sahuyash2192-glitch/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
