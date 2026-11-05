@@ -256,6 +256,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sahuyash2192-glitch/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/sahuyash2192-glitch/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sahuyash2192-glitch/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sahuyash2192-glitch/DSA/tree/master/0509-fibonacci-number) |
@@ -277,6 +278,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sahuyash2192-glitch/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/sahuyash2192-glitch/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0707-design-linked-list](https://github.com/sahuyash2192-glitch/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sahuyash2192-glitch/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Design
