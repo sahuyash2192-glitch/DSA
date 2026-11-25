@@ -95,6 +95,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sahuyash2192-glitch/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/sahuyash2192-glitch/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sahuyash2192-glitch/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahuyash2192-glitch/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -132,6 +133,7 @@
 | [0392-is-subsequence](https://github.com/sahuyash2192-glitch/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/sahuyash2192-glitch/DSA/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/sahuyash2192-glitch/DSA/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sahuyash2192-glitch/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -253,6 +255,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/sahuyash2192-glitch/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/sahuyash2192-glitch/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sahuyash2192-glitch/DSA/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/sahuyash2192-glitch/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
@@ -293,4 +296,5 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sahuyash2192-glitch/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sahuyash2192-glitch/DSA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
