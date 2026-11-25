@@ -29,6 +29,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sahuyash2192-glitch/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/sahuyash2192-glitch/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/sahuyash2192-glitch/DSA/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/sahuyash2192-glitch/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sahuyash2192-glitch/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sahuyash2192-glitch/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sahuyash2192-glitch/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -251,6 +252,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sahuyash2192-glitch/DSA/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/sahuyash2192-glitch/DSA/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/sahuyash2192-glitch/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
@@ -287,4 +289,8 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/sahuyash2192-glitch/DSA/tree/master/0707-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sahuyash2192-glitch/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
