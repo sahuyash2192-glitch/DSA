@@ -134,6 +134,7 @@
 | [0567-permutation-in-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/sahuyash2192-glitch/DSA/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/sahuyash2192-glitch/DSA/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sahuyash2192-glitch/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -299,5 +300,6 @@
 | ------- |
 | [0682-baseball-game](https://github.com/sahuyash2192-glitch/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sahuyash2192-glitch/DSA/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
