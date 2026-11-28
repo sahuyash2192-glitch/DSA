@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahuyash2192-glitch/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sahuyash2192-glitch/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sahuyash2192-glitch/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sahuyash2192-glitch/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sahuyash2192-glitch/DSA/tree/master/0242-valid-anagram) |
@@ -282,6 +283,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sahuyash2192-glitch/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sahuyash2192-glitch/DSA/tree/master/0022-generate-parentheses) |
 ## Linked List
 |  |
@@ -298,6 +300,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sahuyash2192-glitch/DSA/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/sahuyash2192-glitch/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sahuyash2192-glitch/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahuyash2192-glitch/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
